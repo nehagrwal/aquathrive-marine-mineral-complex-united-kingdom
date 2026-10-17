@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/aquathrive-marine-mineral-complex-united-kingdom/sitemap.xml
+Sitemap: https://aquathrive-marine-mineral-complex-united-kingdom.vercel.app/sitemap-vercel.xml
+Sitemap: https://aquathrive-marine-mineral-complex-united-kingdom.pages.dev/sitemap-cloudflare.xml
